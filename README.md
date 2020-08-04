@@ -1,4 +1,4 @@
-![profile](https://github.com/Firzan97/Firzan97/blob/master/cover.gif)
+<img src="cover.gif" width="50">
 
 ### Hi there, I am Firzan ![Hi](https://github.com/Firzan97/Firzan97/blob/master/Hi.gif){ width=50% }
 
