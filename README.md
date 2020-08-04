@@ -24,12 +24,14 @@
   <br/>
 
   **Talking about Personal Stuffs:**
-  <img src="https://github.com/Firzan97/Firzan97/blob/master/linkedln.svg" width="18" height="18">
-  <img src="https://github.com/Firzan97/Firzan97/blob/master/linkedln.svg" width="18" height="18">
-  <img src="https://github.com/Firzan97/Firzan97/blob/master/linkedln.svg" width="18" height="18">
-  <img src="https://github.com/Firzan97/Firzan97/blob/master/linkedln.svg" width="18" height="18">
-  <img src="https://github.com/Firzan97/Firzan97/blob/master/linkedln.svg" width="18" height="18">
-  <img src="https://github.com/Firzan97/Firzan97/blob/master/linkedln.svg" width="18" height="18">
-  <img src="https://github.com/Firzan97/Firzan97/blob/master/linkedln.svg" width="18" height="18">
-  <img src="https://github.com/Firzan97/Firzan97/blob/master/linkedln.svg" width="18" height="18">
-  <img src="https://github.com/Firzan97/Firzan97/blob/master/linkedln.svg" width="18" height="18">
+
+  <br/>
+  <img src="https://github.com/Firzan97/Firzan97/blob/master/gatsby.png" width="18" height="18">
+  <img src="https://github.com/Firzan97/Firzan97/blob/master/laravel.png" width="18" height="18">
+  <img src="https://github.com/Firzan97/Firzan97/blob/master/mongodb.svg" width="18" height="18">
+  <img src="https://github.com/Firzan97/Firzan97/blob/master/mysql.svg" width="18" height="18">
+  <img src="https://github.com/Firzan97/Firzan97/blob/master/nodejs.jpg" width="18" height="18">
+  <img src="https://github.com/Firzan97/Firzan97/blob/master/react.svg" width="18" height="18">
+  <img src="https://github.com/Firzan97/Firzan97/blob/master/ror.png" width="18" height="18">
+  <img src="https://github.com/Firzan97/Firzan97/blob/master/c++.png" width="18" height="18">
+  <img src="https://github.com/Firzan97/Firzan97/blob/master/flutter.png" width="18" height="18">
