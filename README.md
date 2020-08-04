@@ -1,4 +1,4 @@
-![profile](https://github.com/Firzan97/Firzan97/blob/master/profile3.PNG)
+![profile](https://github.com/Firzan97/Firzan97/blob/master/cover.gif)
 
 ### Hi there, I am Firzan 👋
 
