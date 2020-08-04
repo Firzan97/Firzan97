@@ -1,4 +1,4 @@
-![profile](profile.png)
+![profile](https://github.com/Firzan97/Firzan97/blob/master/profile.png)
 
 ### Hi there 👋
 
