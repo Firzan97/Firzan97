@@ -1,8 +1,8 @@
-![profile](https://github.com/Firzan97/Firzan97/blob/master/profile2.jpg)
+![profile](https://github.com/Firzan97/Firzan97/blob/master/profile3.jpg)
 
-### Hi there 👋
+### Hi there, I am Firzan 👋
 
-**Firzan97/Firzan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi, I'm Firzan, a final year student and future Full Stack Developer⚡** from Kelantan, Malaysia. I enjoyed learning new tech especially when it is related to javascript. Beside's programming, I love running, watching anime and play games.
 
 Here are some ideas to get you started:
 
