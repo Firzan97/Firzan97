@@ -1,8 +1,6 @@
 ![profile](https://github.com/Firzan97/Firzan97/blob/master/cover.gif)
 
-### Hi there, I am Firzan ![Hi](https://github.com/Firzan97/Firzan97/blob/master/Hi.gif?s=10)
-
-<img src="https://github.com/Firzan97/Firzan97/blob/master/Hi.gif" width="400" height="790">
+### Hi there, I am Firzan <img src="https://github.com/Firzan97/Firzan97/blob/master/Hi.gif" width="50" height="50">
 
 <div align="center">
   A passionate developer from Malaysia!
