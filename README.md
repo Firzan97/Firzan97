@@ -2,6 +2,10 @@
 
 ### Hi there, I am Firzan ![Hi](https://github.com/Firzan97/Firzan97/blob/master/Hi.gif)
 
+<div align="center">
+  A passionate developer from Malaysia!
+</div>
+
 **Hi, I'm Firzan, a final year student and future Full Stack Developer⚡** from Kelantan, Malaysia. I enjoyed learning new tech especially when it is related to javascript. Beside's programming, I love running, watching anime and play games.
 
 **Talking about Personal Stuffs:**
