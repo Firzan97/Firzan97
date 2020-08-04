@@ -1,4 +1,4 @@
-![profile]("/profile.png")
+![profile](/profile.png)
 
 ### Hi there 👋
 
