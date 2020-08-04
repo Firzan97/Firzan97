@@ -1,6 +1,6 @@
-<img src="cover.gif" width="50">
+![profile](https://github.com/Firzan97/Firzan97/blob/master/cover.gif)
 
-### Hi there, I am Firzan ![Hi](https://github.com/Firzan97/Firzan97/blob/master/Hi.gif){ width=50% }
+### Hi there, I am Firzan <img src="Hi.gif" width="50">
 
 <div align="center">
   A passionate developer from Malaysia!
