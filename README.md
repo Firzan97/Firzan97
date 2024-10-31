@@ -28,9 +28,9 @@
 <br/>
 
 ### **Social Media:**
-<a href="https://www.linkedin.com/in/muhammad-firzan-azrai-4261141ab/"><img src="https://github.com/Firzan97/Firzan97/blob/master/linkedln.svg"></a>
-<a href="https://www.facebook.com/FirzanNumber1/"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/twitter-x.svg"></a>
-<a href="https://twitter.com/Firzan_Azrai"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/twitter-x.svg"></a>
+<a href="https://www.linkedin.com/in/muhammad-firzan-azrai-4261141ab/"><img src="https://github.com/Firzan97/Firzan97/blob/master/linkedln.svg" width="50" heigh="50"></a>
+<a href="https://www.facebook.com/FirzanNumber1/"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/twitter-x.svg" width="50" heigh="50"></a>
+<a href="https://twitter.com/Firzan_Azrai"><img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/twitter-x.svg" width="50" heigh="50"></a>
 <br/>
 <br/>
 
