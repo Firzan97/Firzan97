@@ -14,9 +14,9 @@
 <br/>
 
 <div align="center">
-  **As of November 2024, I've decided to start a commit streak!**
+    As of November 2024, I've decided to start a <b>commit streak!</b>
   <br/>
-  Currently, I'm exploring **Kubernetes** to enhance my skills in container orchestration.
+  Currently, I'm exploring <b>**Kubernetes**</b> to enhance my skills in container orchestration.
 </div>
 <br/>
 
