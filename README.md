@@ -1,5 +1,6 @@
 ![Firzan97's Stats](https://github-readme-stats.vercel.app/api?username=Firzan97&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![Firzan97's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Firzan97&theme=vue-dark&hide_border=false)
+
 ![Firzan97's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Firzan97&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ### Hi there, I am Firzan <img src="https://github.com/Firzan97/Firzan97/blob/master/Hi.gif" width="30" height="30">
