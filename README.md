@@ -43,7 +43,7 @@
 
 
 ### **Languages and Tools:**
-  <br/>
+
   <img src="https://github.com/Firzan97/Firzan97/blob/master/gatsby.png" width="18" height="18">
   <img src="https://github.com/Firzan97/Firzan97/blob/master/laravel.png" width="18" height="18">
   <img src="https://github.com/Firzan97/Firzan97/blob/master/mongodb.svg" width="18" height="18">
