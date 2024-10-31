@@ -11,9 +11,9 @@
 
 ![Firzan97's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Firzan97&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
-
+<br/>
 <div align="center">
-  A passionate developer from Malaysia!
+  <h3>A passionate developer from Malaysia!</h3>
 </div>
 <br/>
 
