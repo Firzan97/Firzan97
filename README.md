@@ -19,6 +19,9 @@
 
 **Talking about Personal Stuffs:**
 
+- 🏃‍♂️ **I love to run** and stay active, finding joy in both the challenge and the fresh air!
+- 🔭 **Currently working on:** Spendsnap, where I'm contributing to innovative solutions.
+- 📫 **Reach me here:** [FirzanAzrai97@gmail.com](mailto:FirzanAzrai97@gmail.com) — I’m always open to connecting and collaborating!
 
   **Languages and Tools:**
   <br/>
