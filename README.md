@@ -10,7 +10,14 @@
 </div>
 <br/>
 
-**Hi, I'm Firzan, a final year student and future Full Stack Developer⚡** from Kelantan, Malaysia. I have almost 4 years of experience and enjoy learning new tech, especially when it relates to JavaScript. Besides programming, I love running, watching anime, and playing games.
+**Hi, I'm Firzan, a Full Stack Developer⚡** from Kelantan, Malaysia. I have almost 4 years of experience and currently work as a **Senior Backend Associate at Setel**. I enjoy learning new tech, especially when it relates to JavaScript. Besides programming, I love running, watching anime, and playing games.
+<br/>
+
+<div align="center">
+  **As of November 2024, I've decided to start a commit streak!**
+  <br/>
+  Currently, I'm exploring **Kubernetes** to enhance my skills in container orchestration.
+</div>
 <br/>
 
 <a href="https://www.linkedin.com/in/muhammad-firzan-azrai-4261141ab/"><img src="https://github.com/Firzan97/Firzan97/blob/master/linkedln.svg" width="18" height="18"></a>
@@ -23,7 +30,7 @@
 - 🔭 **Currently working on:** Spendsnap, where I'm contributing to innovative solutions.
 - 📫 **Reach me here:** [FirzanAzrai97@gmail.com](mailto:FirzanAzrai97@gmail.com) — I’m always open to connecting and collaborating!
 
-  **Languages and Tools:**
+**Languages and Tools:**
   <br/>
   <img src="https://github.com/Firzan97/Firzan97/blob/master/gatsby.png" width="18" height="18">
   <img src="https://github.com/Firzan97/Firzan97/blob/master/laravel.png" width="18" height="18">
