@@ -28,18 +28,18 @@
 <br/>
 <br/>
 
-
 ### **Social Media:**
 <a href="https://www.linkedin.com/in/muhammad-firzan-azrai-4261141ab/"><img src="https://github.com/Firzan97/Firzan97/blob/master/linkedln.svg" width="18" height="18"></a>
 <a href="https://www.facebook.com/FirzanNumber1/"><img src="https://github.com/Firzan97/Firzan97/blob/master/facebook.png" width="18" height="18"></a>
 <a href="https://twitter.com/Firzan_Azrai"><img src="https://github.com/Firzan97/Firzan97/blob/master/twitter.png" width="18" height="18"></a>
 
 
-### **Talking about Personal Stuffs:**
 
+### **Talking about Personal Stuffs:**
 - 🏃‍♂️ **I love to run** and stay active, finding joy in both the challenge and the fresh air!
 - 🔭 **Currently working on:** Spendsnap, where I'm contributing to innovative solutions.
 - 📫 **Reach me here:** [FirzanAzrai97@gmail.com](mailto:FirzanAzrai97@gmail.com) — I’m always open to connecting and collaborating!
+
 
 
 ### **Languages and Tools:**
