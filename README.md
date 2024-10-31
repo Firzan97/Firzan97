@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=Firzan97&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 ![Firzan97's Stats](https://github-readme-stats.vercel.app/api?username=Firzan97&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![Firzan97's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Firzan97&theme=vue-dark&hide_border=false)
 
@@ -20,6 +22,7 @@
 </div>
 <br/>
 
+**Social Media:**
 <a href="https://www.linkedin.com/in/muhammad-firzan-azrai-4261141ab/"><img src="https://github.com/Firzan97/Firzan97/blob/master/linkedln.svg" width="18" height="18"></a>
 <a href="https://www.facebook.com/FirzanNumber1/"><img src="https://github.com/Firzan97/Firzan97/blob/master/facebook.png" width="18" height="18"></a>
 <a href="https://twitter.com/Firzan_Azrai"><img src="https://github.com/Firzan97/Firzan97/blob/master/twitter.png" width="18" height="18"></a>
