@@ -1,8 +1,9 @@
 [![](https://visitcount.itsvg.in/api?id=Firzan97&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <h1> 
-  <b style="flex"> 
-    Hi, <span style="color: #064E3B;">Firzan Azrai <span> here <img src="https://github.com/Firzan97/Firzan97/blob/master/Hi.gif" width="30" height="30">
+  <b style="display: flex;"> 
+    Hi, <span style="color: #064E3B;">Firzan Azrai</span> here 
+    <img src="https://github.com/Firzan97/Firzan97/blob/master/Hi.gif" width="30" height="30" alt="Hi GIF">
   </b>
 </h1>
 
