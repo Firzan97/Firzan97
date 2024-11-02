@@ -2,7 +2,7 @@
 
 <h1> 
   <b style="flex"> 
-    Hi, <h1 style="font-size: 58;">Firzan Azrai</h1> here <img src="https://github.com/Firzan97/Firzan97/blob/master/Hi.gif" width="30" height="30">
+    Hi, <p style="font-color: rgb(6 78 59);">Firzan Azrai</p>here <img src="https://github.com/Firzan97/Firzan97/blob/master/Hi.gif" width="30" height="30">
   </b>
 </h1>
 
