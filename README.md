@@ -2,7 +2,7 @@
 
 <h1> 
   <b> 
-    Hi, I'm Firzan Azrai <img src="https://github.com/Firzan97/Firzan97/blob/master/Hi.gif" width="30" height="30">
+    Hi, <h1 style="font-size: 58;">Firzan Azrai</h1> here <img src="https://github.com/Firzan97/Firzan97/blob/master/Hi.gif" width="30" height="30">
   </b>
 </h1>
 
